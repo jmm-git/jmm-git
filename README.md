@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmm-git 
-- 👀 I’m interested in Automation for my job : SEA Manager
+- 👀 I’m interested in Automation for my job : Trafic Manager Ecommerce
 - 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on some scripts
 - 📫 jmmoreira@me.com
